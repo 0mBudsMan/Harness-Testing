@@ -1,6 +1,6 @@
 pipeline:
-  name: pipe
-  identifier: pipe
+  name: pipe1
+  identifier: pipe1
   projectIdentifier: DoNotDelete_OM
   orgIdentifier: default
   tags: {}
