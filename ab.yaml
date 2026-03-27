@@ -1,7 +1,7 @@
 pipeline:
   name: pipe1
   identifier: pipe1
-  projectIdentifier: DoNotDelete_OM
+  projectIdentifier: proj1
   orgIdentifier: default
   tags: {}
   stages:
