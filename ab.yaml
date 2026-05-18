@@ -49,7 +49,7 @@ pipeline:
                         script: echo 'rollback'
                     environmentVariables: []
                     outputVariables: []
-                  timeout: 19m
+                  timeout: 9m
         tags: {}
         failureStrategies:
           - onFailure:
